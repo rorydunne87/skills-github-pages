@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<center><h1>Experiment</h1></center>
+
+
+<center><p><b>Instructions for experiment</b></p></center>
+<center><p>STEP 1: Play Video with sound on</p></center>
+<center><p>STEP 2: Your task is to click on all the RED CIRCLES and GREEN SQUARES</p></center>
+<center><p>STEP 3: Click on CONJUNCTION to start the expiment and perfrom 2 practice runs to familiarise yourself with the task</p></center>
+<center><p>STEP 4: Click CLEAR DATA </p></center>
+<center><p>STEP 5: Click CONJUCTION and perform the task 5 more times (if you fail just try again) </p></center>
+<center><p>STEP 5: Once finished, click EXPORT DATA and name the file as your Identifier code (2nd and 3rd letters of your adddress and last 3 numbers of your phone number) </p></center>
+<center><p>STEP 6: Email that file to N00211932@iadt.ie </p></center>
+<center><p>STEP 7: Return and complete the Microsoft Form </p></center>
+
+<Br><br>
+
+<iframe width="49%"  height="800px" src="https://www.youtube.com/embed/u7eLwLeNLt8?si=RPB5AeRmXyiAkKJs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://maltacogsci.org/humanforaging/" height="800px" width="50%" title="Iframe Example"></iframe>
+
+<br><br>
+
+</body>
+</html>
+
